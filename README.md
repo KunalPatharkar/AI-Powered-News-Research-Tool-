@@ -1,7 +1,7 @@
 # AI-Powered News Research Tool 📰🤖  
 
 An AI-powered news research tool built for effortless information retrieval and financial insights. It enables users to load article URLs or upload text files containing multiple URLs, processes the content into embeddings, and allows interactive Q&A through ChatGPT with source references.  
-
+![](Image.jpg)
 
 ## ✨ Features  
 
